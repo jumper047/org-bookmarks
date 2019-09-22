@@ -1,0 +1,13 @@
+#+TITLE: Bookmarks
+#+HTML_DOCTYPE: html5
+#+OPTIONS: toc:1 num:nil val:nil html-style:nil H:1 prop:t
+#+HTML_HEAD: <link rel="stylesheet" href="css/theme.css">
+#+HTML_HEAD: <script src="js/jquery-3.3.1.min.js"></script>
+#+HTML_HEAD: <script src="js/jquery.searchable.js"></script>
+#+HTML_HEAD: <script src="js/smooth-scroll.js"></script>
+#+HTML_HEAD: <script src="js/main.js"></script>
+#+HTML: <input id="search" autofocus>
+#+HTML_CONTAINER: wrapper
+#+HTML_CONTAINER_CLASS: cntclass
+
+* Inbox
